@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "About Me"
+title:  "Grading Info"
 ---
 
 For grading, only grade the About-Me post.
