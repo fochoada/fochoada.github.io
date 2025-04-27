@@ -20,8 +20,8 @@
 
 title: Francis Ochoada Website
 email: fochoada@gmu.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  This website is made for GMU IT 304 and subsequent assignments related to the class.
+description: This website is made for GMU IT 304 and subsequent assignments related to the class. 
+>- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: @GeorgeMasonU
