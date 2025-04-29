@@ -30,6 +30,10 @@ github_username:  fochoada
 theme: minima
 plugins:
   - jekyll-feed
+ 
+ #added sass config
+sass:
+    sass_dir: /assets/css
 
 # Exclude from processing.
 # The following items will not be processed, by default.
