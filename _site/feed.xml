@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-27T23:06:24-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Francis Ochaoda Website</title><subtitle></subtitle><entry><title type="html">Home Page</title><link href="http://localhost:4000/2025/04/26/Home.html" rel="alternate" type="text/html" title="Home Page" /><published>2025-04-26T00:00:00-04:00</published><updated>2025-04-26T00:00:00-04:00</updated><id>http://localhost:4000/2025/04/26/Home</id><content type="html" xml:base="http://localhost:4000/2025/04/26/Home.html"><![CDATA[<p><img src="/assets/Images/gmuPond.jpg" alt="GMU" /></p>
+<html>
+<head>
+<style>
+table, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+<h1>
+<p>Made through Jekyll, GitHub Pages</p>
+</h1>
+<p>This is Home Page</p>
+</body>
+</html>
+<p><img src="/assets/Images/spinningFish.gif" alt="gif" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Made through Jekyll, GitHub Pages This is Home Page]]></summary></entry><entry><title type="html">Ethics</title><link href="http://localhost:4000/2025/04/26/Ethics.html" rel="alternate" type="text/html" title="Ethics" /><published>2025-04-26T00:00:00-04:00</published><updated>2025-04-26T00:00:00-04:00</updated><id>http://localhost:4000/2025/04/26/Ethics</id><content type="html" xml:base="http://localhost:4000/2025/04/26/Ethics.html"><![CDATA[<p>This is the ethics page. <br />
+<img src="/assets/Images/IEEELogo.png" alt="IEEE" /> <br />
+From the IEEE(1999), <br /></p>
+<p style="margin-left: 30px;">Software engineers shall commit themselves to 
+making the analysis, specification, design, development, testing and maintenance of software 
+a beneficial and respected profession. 
+In accordance with their commitment to the 
+health, safety and welfare of the public, 
+software engineers shall adhere to the following Eight Principles:</p>
+
+<table border="0" cellpadding="0" cellspacing="0" width="475" style="border-collapse:
+ collapse;table-layout:fixed;width:357pt">
+ <col width="108" style="mso-width-source:userset;mso-width-alt:3770;width:81pt" />
+ <col width="367" style="mso-width-source:userset;mso-width-alt:12823;width:276pt" />
+ <tr height="19" style="height:14.5pt">
+  <td height="19" width="108" style="height:14.5pt;width:81pt">first principle</td>
+  <td width="367" style="width:276pt">Act within the public interest</td>
+ </tr>
+ <tr height="19" style="height:14.5pt">
+  <td height="19" style="height:14.5pt">second principle</td>
+  <td>Act with the best interest of clients &amp; employers</td>
+ </tr>
+ <tr height="19" style="height:14.5pt">
+  <td height="19" style="height:14.5pt">Third principle</td>
+  <td>Products meet highest standards</td>
+ </tr>
+ <tr height="19" style="height:14.5pt">
+  <td height="19" style="height:14.5pt">Fourth principle</td>
+  <td>maintain integrity</td>
+ </tr>
+ <tr height="19" style="height:14.5pt">
+  <td height="19" style="height:14.5pt">Fifth principle</td>
+  <td>promote ethical management</td>
+ </tr>
+ <tr height="19" style="height:14.5pt">
+  <td height="19" style="height:14.5pt">Sixth principle</td>
+  <td>Advance the profession within the public's interest</td>
+ </tr>
+ <tr height="19" style="height:14.5pt">
+  <td height="19" style="height:14.5pt">Seventh principle</td>
+  <td>Fair &amp; supportive of colleagues<span style="mso-spacerun:yes"> </span></td>
+ </tr>
+ <tr height="19" style="height:14.5pt">
+  <td height="19" style="height:14.5pt">Eight principle</td>
+  <td>Participate in lifelong learning and promote ethical sollutions</td>
+ </tr>
+ <tr height="0" style="display:none">
+  <td width="108" style="width:81pt"></td>
+  <td width="367" style="width:276pt"></td>
+ </tr>
+</table>
+<p><img src="/assets/Images/MVUCampus.jpg" alt="MVU" />
+For data science ethics, Maryville University (2025) offers similar guidelines:</p>
+<ul>
+  <li>Act with integrity, humility, and honesty</li>
+  <li>Hold themselves and others accountable</li>
+  <li>Promote transparency</li>
+  <li>Remain informed about developments in data science and data management</li>
+  <li>Respect confidentiality and privacy</li>
+  <li>Respect individuals, communities, and the public</li>
+  <li>Uphold applicable ethical standards, professional practices, statutes, and regulations</li>
+</ul>
+
+<p>Refrences: <br />
+IEEE Computer Society. (1999). Code of Ethics. IEEE. https://www.computer.org/education/code-of-ethics <br />
+Maryville University. (2025). Data science ethics: Issues and strategies. 
+https://online.maryville.edu/online-masters-degrees/data-science/careers/data-science-ethics-issues-and-strategies/</p>]]></content><author><name></name></author><summary type="html"><![CDATA[This is the ethics page. From the IEEE(1999), Software engineers shall commit themselves to making the analysis, specification, design, development, testing and maintenance of software a beneficial and respected profession. In accordance with their commitment to the health, safety and welfare of the public, software engineers shall adhere to the following Eight Principles:]]></summary></entry><entry><title type="html">Grading Info</title><link href="http://localhost:4000/2025/02/26/Grading-Info.html" rel="alternate" type="text/html" title="Grading Info" /><published>2025-02-26T00:00:00-05:00</published><updated>2025-02-26T00:00:00-05:00</updated><id>http://localhost:4000/2025/02/26/Grading-Info</id><content type="html" xml:base="http://localhost:4000/2025/02/26/Grading-Info.html"><![CDATA[<p>For grading, only grade the About-Me post.
+Jekyll was fixed two days after the due date.
+This was done through re-installing Ruby. Past projects had changed how Ruby functioned on my laptop.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[For grading, only grade the About-Me post. Jekyll was fixed two days after the due date. This was done through re-installing Ruby. Past projects had changed how Ruby functioned on my laptop.]]></summary></entry><entry><title type="html">About Me</title><link href="http://localhost:4000/2025/02/24/About-Me.html" rel="alternate" type="text/html" title="About Me" /><published>2025-02-24T00:00:00-05:00</published><updated>2025-02-24T00:00:00-05:00</updated><id>http://localhost:4000/2025/02/24/About-Me</id><content type="html" xml:base="http://localhost:4000/2025/02/24/About-Me.html"><![CDATA[<p><img src="/assets/Images/gmuPond.jpg" alt="GMU" /></p>
+<html>
+<head>
+<style>
+table, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+<h1>
+<p>Made through Jekyll, GitHub Pages</p>
+</h1>
+
+<table style="width:50%">
+  <tr>
+    <td>Name</td>
+	<td>Francis O</td>
+  </tr>
+  <tr>
+	<td>Introduction</td>
+	<td>Hello, I am a junior in the BAS CS program. I enjoy programming and pen-testing</td>
+  </tr>
+  <tr>
+	<td>Hobbies</td>
+	<td>Programming, gardening, 3D modeling</td>
+  </tr>	
+</table>
+</body>
+</html>
+<p><img src="/assets/Images/spinningFish.gif" alt="gif" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Made through Jekyll, GitHub Pages]]></summary></entry><entry><title type="html">Jekyll Example Post</title><link href="http://localhost:4000/2025/02/24/postExample.html" rel="alternate" type="text/html" title="Jekyll Example Post" /><published>2025-02-24T00:00:00-05:00</published><updated>2025-02-24T00:00:00-05:00</updated><id>http://localhost:4000/2025/02/24/postExample</id><content type="html" xml:base="http://localhost:4000/2025/02/24/postExample.html"><![CDATA[<h1 id="welcome">Welcome</h1>
+
+<p><strong>Hello world</strong>, this is my first Jekyll blog post.</p>
+
+<p>I hope you like it!</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Welcome]]></summary></entry></feed>
