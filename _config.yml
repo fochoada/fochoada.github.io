@@ -21,7 +21,7 @@
 title: Francis Ochaoda Website
 email: fochoada@gmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/fochoada" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: GeorgeMasonU
 github_username:  fochoada
