@@ -1,5 +1,5 @@
-#remove site
-#_site
+#add back site to ignore list
+_site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
