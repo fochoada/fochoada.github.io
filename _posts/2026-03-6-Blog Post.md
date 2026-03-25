@@ -34,6 +34,8 @@ A solution proposed by Jarret is to standardize the industry, following governme
 
 There is a lot of potential for using automation in digital forensics. With promising results in cost reduction.
 
+[Reflection](https://gmuedu-my.sharepoint.com/:w:/g/personal/fochoada_gmu_edu/IQD4Lk1Dez00Rr7xjFfm57E6AbbpGXMQNTgSJXecprGIYzI?e=4ayUOI)
+
 
 
 
